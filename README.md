@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/chrishayuk-verifiers-badge.png)](https://mseep.ai/app/chrishayuk-verifiers)
+
 ```bash
 uv run fastapi_server.py
 ```
